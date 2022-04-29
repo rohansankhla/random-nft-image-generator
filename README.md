@@ -1,4 +1,4 @@
-# Rando NFT Image Generator
+# Random NFT Image Generator
 
 This program generates a random NFT based on user-inputted images.
 To use it, please input the paths of each .png file attribute image into its respective list. Then, run the program!
